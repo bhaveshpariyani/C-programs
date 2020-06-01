@@ -13,3 +13,5 @@
 - Bitonic Sort
 - External merge sort
 - Quick sort with O(nlogn) time comlexity using pseudo median
+- Optimal Binary Search
+- Maximum Sum sub matrix
